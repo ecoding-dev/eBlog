@@ -4,7 +4,7 @@ subtitle: ""
 date: 2025-03-13T01:57:14+08:00
 lastmod: 2025-03-13T01:57:14+08:00
 draft: true
-authors: [StephenZ]
+authors: [Arnaldo]
 description: "WaveDrom Tests"
 categories: [Tests]
 hiddenFromHomePage: true

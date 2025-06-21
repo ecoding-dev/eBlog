@@ -6,7 +6,7 @@ lastmod: 2021-04-29T13:41:31+01:00
 draft: true
 description: "Friend Shortcode Tests"
 categories: [Tests]
-authors: [PCloud]
+authors: [Abel]
 hiddenFromHomePage: true
 hiddenFromSearch: true
 ---

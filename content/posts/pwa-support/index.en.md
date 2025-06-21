@@ -4,7 +4,7 @@ title: "PWA Support"
 date: 2021-05-10T16:21:41+01:00
 lastmod: 2021-05-10T16:21:41+01:00
 draft: false
-authors: ["PCloud"]
+authors: ["Abel"]
 description: "Guide to setup PWA in DoIt"
 featuredImage: "featured-image.webp"
 

@@ -4,7 +4,7 @@ title: "Theme Documentation - Extended Shortcodes"
 date: 2020-03-06T16:29:41+08:00
 lastmod: 2020-03-06T16:29:41+08:00
 draft: false
-authors: [Dillon, PCloud]
+authors: [Fabrizio, Abel]
 description: "DoIt theme provides multiple shortcodes on top of built-in ones in Hugo."
 resources:
 featuredImage: "featured-image.webp"
@@ -1594,10 +1594,10 @@ This renders as {{< person url="https://evgenykuznetsov.org" name="Evgeny Kuznet
 Without an explicitly given picture, a generic icon is used. This input:
 
 ```markdown
-{{</* person "https://dillonzq.com/" Dillon "author of the LoveIt theme" */>}}
+{{</* person "https://example.com/fabrizio" Fabrizio "equipo Ecoding" */>}}
 ```
 
-This renders as {{< person "https://dillonzq.com/" Dillon "author of the LoveIt theme" >}}.
+This renders as {{< person "https://example.com/fabrizio" Fabrizio "equipo Ecoding" >}}.
 
 ## bluesky
 
