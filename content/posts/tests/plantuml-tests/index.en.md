@@ -4,7 +4,7 @@ subtitle: ""
 date: 2025-03-13T01:21:26+08:00
 lastmod: 2025-03-13T01:21:26+08:00
 draft: true
-authors: [StephenZ]
+authors: [Arnaldo]
 description: "PlantUML Tests for Commonly Used Diagrams"
 categories: [Tests]
 hiddenFromHomePage: true

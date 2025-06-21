@@ -5,7 +5,7 @@ lastmod: 2021-04-16T14:53:03+01:00
 draft: true
 description: "KaTeX Tests"
 categories: [Tests]
-authors: [PCloud]
+authors: [Abel]
 math:
   enable: true
 hiddenFromHomePage: true
