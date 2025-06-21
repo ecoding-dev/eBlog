@@ -13,7 +13,7 @@
     "defaultContentLanguage": {
       "type": "string",
       "description": "Content without language indicator will default to this language.",
-      "examples": ["en", "zh-cn", "fr", "pl"],
+      "examples": ["en", "es", "fr", "pl"],
       "default": "en"
     },
     "theme": {
