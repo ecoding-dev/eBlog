@@ -1,0 +1,25 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Node dependencies
+node_modules/
+
+# Hugo build output
+public/
+resources/
+hugo_stats.json
+hugo.toml
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Go module files (if generated locally)
+go.mod
+go.sum
+
+# Log files
+*.log
+
+# Environment files
+.env
