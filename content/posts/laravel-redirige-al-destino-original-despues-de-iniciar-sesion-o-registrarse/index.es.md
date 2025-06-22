@@ -7,7 +7,7 @@ authors: ['Fabrizio']
 description: "En esta publicación quiero mostrarle algunos consejos básicos para redirigir al usuario a la ruta de destino original o a alguna ruta definida con pasos simples."
 featuredImage: ""
 tags: []
-categories: ['Git']
+categories: ['Laravel']
 ---
 # Laravel redirige al destino original después de iniciar sesión o registrarse
 

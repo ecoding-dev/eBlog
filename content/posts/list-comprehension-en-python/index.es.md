@@ -6,8 +6,8 @@ draft: false
 authors: ['Melio']
 description: "Breve introducción a la sintaxis corta que ofrece python para la creación de una lista basada en los valores de otra. List Comprehension&nbsp;"
 featuredImage: ""
-tags: ['PHP', 'Laravel', 'Controller', 'Backend', 'Auth']
-categories: ['Laravel']
+tags: ['Python']
+categories: ['Python']
 ---
 # List Comprehension en Python
 

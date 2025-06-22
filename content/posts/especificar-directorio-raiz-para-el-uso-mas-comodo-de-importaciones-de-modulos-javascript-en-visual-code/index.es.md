@@ -6,8 +6,8 @@ draft: false
 authors: ['Abel']
 description: "Cambiar importaciones “../../carpeta/modulo.js” a “carpeta/modulo.js”"
 featuredImage: "especificar-directorio-raiz-para-el-uso-mas-comodo-de-importaciones-de-modulos-javascript-en-visual-code-1.jpg"
-tags: ['PHP', 'Laravel', 'Controller', 'Backend', 'Auth']
-categories: ['Laravel']
+tags: ['JavaScript', 'VSCode']
+categories: ['JavaScript']
 ---
 # Especificar directorio raíz para el uso mas cómodo de importaciones de
 módulos javascript en Visual Code
