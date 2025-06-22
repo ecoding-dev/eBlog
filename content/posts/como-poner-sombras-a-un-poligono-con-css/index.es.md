@@ -6,8 +6,8 @@ draft: false
 authors: ['Arnaldo']
 description: "Guía de como poder establecer sombras a polígonos"
 featuredImage: ""
-tags: []
-categories: ['Git']
+tags: ['CSS']
+categories: ['CSS']
 ---
 # Como poner sombras a un poligono con CSS
 
@@ -48,4 +48,22 @@ propiedad `clip-path` y la función `polygon()`.
     }
 
 ### `example:`
+
+```html
+<div class="shadow">
+    <div class="polygon"></div>
+</div>
+
+<style>
+.shadow {
+    filter: drop-shadow(0 0 1rem #4fd5b0);
+}
+.polygon {
+    width: 10rem;
+    height: 10rem;
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    background: #43acbb;
+}
+</style>
+```
 
