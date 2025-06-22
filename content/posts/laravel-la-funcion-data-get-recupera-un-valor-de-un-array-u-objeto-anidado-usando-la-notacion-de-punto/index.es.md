@@ -1,10 +1,10 @@
 ---
-title: "Laravel: La función "data_get()" recupera un valor de un array u objeto anidado usando la notación de punto"
+title: "Laravel: La función data_get() recupera un valor de un array u objeto anidado usando la notación de punto"
 date: "2023-02-16 02:47:20"
 lastmod: "2023-02-16 02:47:20"
 draft: false
 authors: ['Fabrizio']
-description: "La función "data_get()" recupera un valor de un array u objeto anidada usando la notación de punto."
+description: "La función data_get() recupera un valor de un array u objeto anidada usando la notación de punto."
 featuredImage: ""
 tags: ['Web Development', 'Ubuntu', 'Linux', 'Google Cloud', 'Cloud', 'Backend', 'AWS']
 categories: ['Tutoriales']

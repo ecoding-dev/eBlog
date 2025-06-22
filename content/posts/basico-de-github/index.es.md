@@ -4,7 +4,7 @@ date: "2023-02-14 05:33:31"
 lastmod: "2023-02-14 05:33:31"
 draft: false
 authors: ['Fabrizio']
-description: ""GitHub: la plataforma de alojamiento de proyectos y colaboración más popular. Comparte tu código y colabora con otros desarrolladores."
+description: "GitHub: la plataforma de alojamiento de proyectos y colaboración más popular. Comparte tu código y colabora con otros desarrolladores."
 featuredImage: "https://learn.microsoft.com/es-mx/training/github/introduction-to-github/media/2-issue.png"
 tags: ['Ubuntu', 'OpenVPN', 'Linux', 'Cloud']
 categories: ['Tutoriales']

@@ -5,7 +5,7 @@ lastmod: "2022-03-19 01:11:27"
 draft: false
 authors: ['Fabrizio']
 description: "Aprende a instalar y configurar un servidor OpenVPN en Linux para una conexión segura y privada a una red remota a través de Internet."
-featuredImage: ""
+featuredImage: "descargue-y-configurar-el-servidor-openvpn-en-ubuntu-1.jpg"
 tags: ['Javascript']
 categories: ['Javascript']
 ---
